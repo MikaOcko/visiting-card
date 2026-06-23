@@ -19,7 +19,6 @@ As a project manager, I want to review the candidate's information so that we ca
 - [ ] Constraints: at least 1 CSS rule per HTML tag
 > :memo: **Note:** No CSS rule for link tags.
 
-
 ## Prerequisites for use
 No prerequisites required — simply open the project in your browser.
 
