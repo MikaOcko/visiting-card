@@ -12,6 +12,7 @@ As a project manager, I want to review the candidate's information so that we ca
 #### CSS file
 - [x] Freedom in formatting
 - [ ] Constraints: at least 1 CSS rule per HTML tag
+> :memo: **Note:** No CSS rule for link tags.
 
 ![Screenshot](/assets/images/screenshot.png)
 
