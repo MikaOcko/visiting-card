@@ -23,7 +23,7 @@ As a project manager, I want to review the candidate's information so that we ca
 No prerequisites required — simply open the project in your browser.
 
 ## Installation
-The project is deployed online at: *[here](https://mikaocko.github.io/visiting-card/)*
+The project is deployed online at: [here](https://mikaocko.github.io/visiting-card/)
 
 If you'd like to run the project locally, you can either **download** or **clone** the project to your computer.
 
