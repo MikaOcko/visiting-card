@@ -1,24 +1,24 @@
 # Visiting card
 ## Brief
 As a project manager, I want to review the candidate's information so that we can discuss technical terms.
-
-### Evaluation criteria
-#### HTML file
-- [x] Title tags for your first and last name, …
-- [x] Image tag for your avatar (not necessarily a photo)
-- [x] List tags for the main reasons why you want to join the Simplon course
-- [ ] List and link tags for all your online profiles (CodeCademy, OpenClassrooms, LinkedIn, GitHub…)
-
-#### CSS file
-- [x] Freedom in formatting
-- [ ] Constraints: at least 1 CSS rule per HTML tag
-> :memo: **Note:** No CSS rule for link tags.
-
 ![Screenshot](/assets/images/screenshot.png)
 
 ## Badges
 ![Static Badge](https://img.shields.io/badge/langage-Html-blue)
 ![Static Badge](https://img.shields.io/badge/langage-CSS-orange)
+
+## Evaluation criteria
+### HTML file
+- [x] Title tags for your first and last name, …
+- [x] Image tag for your avatar (not necessarily a photo)
+- [x] List tags for the main reasons why you want to join the Simplon course
+- [ ] List and link tags for all your online profiles (CodeCademy, OpenClassrooms, LinkedIn, GitHub…)
+
+### CSS file
+- [x] Freedom in formatting
+- [ ] Constraints: at least 1 CSS rule per HTML tag
+> :memo: **Note:** No CSS rule for link tags.
+
 
 ## Prerequisites for use
 No prerequisites required — simply open the project in your browser.
