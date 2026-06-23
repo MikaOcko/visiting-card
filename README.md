@@ -4,14 +4,14 @@ As a project manager, I want to review the candidate's information so that we ca
 
 ### Evaluation criteria
 #### HTML file
-[x]Title tags for your first and last name, …
-[x]Image tag for your avatar (not necessarily a photo)
-[x]List tags for the main reasons why you want to join the Simplon course
-[]List and link tags for all your online profiles (CodeCademy, OpenClassrooms, LinkedIn, GitHub…)
+- [x]Title tags for your first and last name, …
+- [x]Image tag for your avatar (not necessarily a photo)
+- [x]List tags for the main reasons why you want to join the Simplon course
+- [ ]List and link tags for all your online profiles (CodeCademy, OpenClassrooms, LinkedIn, GitHub…)
 
 #### CSS file
-[x]Freedom in formatting
-[]Constraints: at least 1 CSS rule per HTML tag
+- [x]Freedom in formatting
+- [ ]Constraints: at least 1 CSS rule per HTML tag
 
 ![Screenshot](/assets/images/screenshot.png)
 
@@ -29,7 +29,7 @@ If you'd like to run the project locally, you can either **download** or **clone
 
 ### Download project
 You can download the ZIP file of the project by clicking the green **Code button** at the top right of this repository (on GitHub), then selecting **Download ZIP**.
-Once downloaded, **unzip the file** and **open the `index.html` file in your web browser** to start playing the game.
+Once downloaded, **unzip the file** and **open the `index.html` file in your web browser** to view the project.
 
 ### Clone project
 To clone the repository using Git, open a terminal and run:
@@ -41,4 +41,3 @@ Once cloned, navigate to the project folder and open `index.html` in your prefer
 
 ## Roadmap
 No future developments are planned.
-
